@@ -1,5 +1,5 @@
 % -------------------------------------------------------------------------
-% This file tests a caffe trained CNN using MATLAB Interface 
+% This file runs Memorability Test on Image Aesthetics Dataset
 % -------------------------------------------------------------------------
 clc; clear; close all; 
 
