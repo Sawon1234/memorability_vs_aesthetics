@@ -7,11 +7,11 @@ This project aims to see if the aesthetically pleasing images are als omore memo
 -----------------------------------------------------------
 **RUNNING THE COMAPRISON** 
 
-(1) Download the MemNet from http://memorability.csail.mit.edu/download.html. Unpack it to have a folder memnet under the ROOT folder. memnet folder should contain the trained caffemodel, deploy file, and the mean file in MAT format. 
+(1) Download the [MemNet] from http://memorability.csail.mit.edu/download.html. Unpack it to have a folder memnet under the ROOT folder. memnet folder should contain the trained caffemodel, deploy file, and the mean file in MAT format. 
 
 (2) Run main.m. The code is pretty much self explanatory. Make sure you have the eyeEM dataset on the correct path, which contains the image names as specified in the testSet.txt 
 
 -----------------------------------------------------------
 **DEPENDENCIES** 
 
-[Standard Caffe with matCaffe Installation] (https://github.com/BVLC/caffe) 
+Standard [Caffe] (https://github.com/BVLC/caffe)  with matCaffe Installation 
