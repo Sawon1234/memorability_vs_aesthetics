@@ -1,5 +1,5 @@
 # ECC_memorability_vs_aesthetics
-**Comparing the notion of image memorabiltiy and image aesthetics** (An eye**E**M &amp; **C**ambridge University **C**ollaboration - **ECC**)
+**Comparing Image Memorabiltiy and Image Aesthetics** (An eye**E**M &amp; **C**ambridge University **C**ollaboration - **ECC**)
 
 -----------------------------------------------------------
 This project aims to see if the aesthetically pleasing images are als omore memorable. For the memorability test, we utlize near-human performance MemNet (http://memorability.csail.mit.edu/download.html) model. For aesthetics, we utilize the eyeEM image aesthetics dataset (dataset-aesthetics). 
