@@ -5,7 +5,7 @@
 This project aims to see if the aesthetically pleasing images are als omore memorable. For the memorability test, we utlize near-human performance MemNet (http://memorability.csail.mit.edu/download.html) model. For aesthetics, we utilize the eyeEM image aesthetics dataset (dataset-aesthetics). 
 
 -----------------------------------------------------------
-**RUNNING THE COMAPRISON** 
+**RUNNING THE COMPARISON TEST** 
 
 (1) Download the [MemNet] (http://memorability.csail.mit.edu/download.html). Unpack it to have a folder memnet under the ROOT folder. memnet folder should contain the trained caffemodel, deploy file, and the mean file in MAT format. 
 
