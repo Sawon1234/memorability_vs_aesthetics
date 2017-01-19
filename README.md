@@ -1,4 +1,4 @@
-# ECC_memorability_vs_aesthetics
+# memorability_vs_aesthetics
 **Comparing Image Memorabiltiy and Image Aesthetics** (An eye**E**M &amp; **C**ambridge University **C**ollaboration - **ECC**)
 
 -----------------------------------------------------------
